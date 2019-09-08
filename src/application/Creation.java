@@ -128,8 +128,4 @@ public class Creation {
 
 		return false;
 	}
-
-	public String toString() {
-		return this.toString();
-	}
 }
